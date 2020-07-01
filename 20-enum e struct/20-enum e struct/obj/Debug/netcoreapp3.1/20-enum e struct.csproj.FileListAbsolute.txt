@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\20-enum e struct\20-enum e struct\bin\Debug\netcoreapp3.1\20-enum e struct.exe
+C:\Users\leo_n\source\repos\20-enum e struct\20-enum e struct\bin\Debug\netcoreapp3.1\20-enum e struct.deps.json
+C:\Users\leo_n\source\repos\20-enum e struct\20-enum e struct\bin\Debug\netcoreapp3.1\20-enum e struct.runtimeconfig.json
+C:\Users\leo_n\source\repos\20-enum e struct\20-enum e struct\bin\Debug\netcoreapp3.1\20-enum e struct.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\20-enum e struct\20-enum e struct\bin\Debug\netcoreapp3.1\20-enum e struct.dll
+C:\Users\leo_n\source\repos\20-enum e struct\20-enum e struct\bin\Debug\netcoreapp3.1\20-enum e struct.pdb
+C:\Users\leo_n\source\repos\20-enum e struct\20-enum e struct\obj\Debug\netcoreapp3.1\20-enum e struct.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\20-enum e struct\20-enum e struct\obj\Debug\netcoreapp3.1\20-enum e struct.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\20-enum e struct\20-enum e struct\obj\Debug\netcoreapp3.1\20-enum e struct.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\20-enum e struct\20-enum e struct\obj\Debug\netcoreapp3.1\20-enum e struct.dll
+C:\Users\leo_n\source\repos\20-enum e struct\20-enum e struct\obj\Debug\netcoreapp3.1\20-enum e struct.pdb

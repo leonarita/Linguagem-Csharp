@@ -1,0 +1,14 @@
+C:\Users\leo_n\source\repos\58-IEnumerable\58-IEnumerable\bin\Debug\netcoreapp3.1\58-IEnumerable.exe
+C:\Users\leo_n\source\repos\58-IEnumerable\58-IEnumerable\obj\Debug\netcoreapp3.1\58-IEnumerable.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\58-IEnumerable\58-IEnumerable\obj\Debug\netcoreapp3.1\58-IEnumerable.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\58-IEnumerable\58-IEnumerable\obj\Debug\netcoreapp3.1\58-IEnumerable.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\58-IEnumerable\58-IEnumerable\bin\Debug\netcoreapp3.1\58-IEnumerable.deps.json
+C:\Users\leo_n\source\repos\58-IEnumerable\58-IEnumerable\bin\Debug\netcoreapp3.1\58-IEnumerable.runtimeconfig.json
+C:\Users\leo_n\source\repos\58-IEnumerable\58-IEnumerable\bin\Debug\netcoreapp3.1\58-IEnumerable.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\58-IEnumerable\58-IEnumerable\bin\Debug\netcoreapp3.1\58-IEnumerable.dll
+C:\Users\leo_n\source\repos\58-IEnumerable\58-IEnumerable\bin\Debug\netcoreapp3.1\58-IEnumerable.pdb
+C:\Users\leo_n\source\repos\58-IEnumerable\58-IEnumerable\bin\Debug\netcoreapp3.1\FsCheck.dll
+C:\Users\leo_n\source\repos\58-IEnumerable\58-IEnumerable\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+C:\Users\leo_n\source\repos\58-IEnumerable\58-IEnumerable\obj\Debug\netcoreapp3.1\58-IEnumerable.csproj.CopyComplete
+C:\Users\leo_n\source\repos\58-IEnumerable\58-IEnumerable\obj\Debug\netcoreapp3.1\58-IEnumerable.dll
+C:\Users\leo_n\source\repos\58-IEnumerable\58-IEnumerable\obj\Debug\netcoreapp3.1\58-IEnumerable.pdb

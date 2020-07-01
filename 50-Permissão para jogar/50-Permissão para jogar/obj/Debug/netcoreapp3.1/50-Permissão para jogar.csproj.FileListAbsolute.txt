@@ -1,0 +1,10 @@
+C:\Users\leo_n\source\repos\50-Permissão para jogar\50-Permissão para jogar\bin\Debug\netcoreapp3.1\50-Permissão para jogar.exe
+C:\Users\leo_n\source\repos\50-Permissão para jogar\50-Permissão para jogar\bin\Debug\netcoreapp3.1\50-Permissão para jogar.deps.json
+C:\Users\leo_n\source\repos\50-Permissão para jogar\50-Permissão para jogar\bin\Debug\netcoreapp3.1\50-Permissão para jogar.runtimeconfig.json
+C:\Users\leo_n\source\repos\50-Permissão para jogar\50-Permissão para jogar\bin\Debug\netcoreapp3.1\50-Permissão para jogar.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\50-Permissão para jogar\50-Permissão para jogar\bin\Debug\netcoreapp3.1\50-Permissão para jogar.dll
+C:\Users\leo_n\source\repos\50-Permissão para jogar\50-Permissão para jogar\bin\Debug\netcoreapp3.1\50-Permissão para jogar.pdb
+C:\Users\leo_n\source\repos\50-Permissão para jogar\50-Permissão para jogar\obj\Debug\netcoreapp3.1\50-Permissão para jogar.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\50-Permissão para jogar\50-Permissão para jogar\obj\Debug\netcoreapp3.1\50-Permissão para jogar.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\50-Permissão para jogar\50-Permissão para jogar\obj\Debug\netcoreapp3.1\50-Permissão para jogar.dll
+C:\Users\leo_n\source\repos\50-Permissão para jogar\50-Permissão para jogar\obj\Debug\netcoreapp3.1\50-Permissão para jogar.pdb

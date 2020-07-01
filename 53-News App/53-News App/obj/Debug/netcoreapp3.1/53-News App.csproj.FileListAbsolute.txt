@@ -1,0 +1,6 @@
+C:\Users\leo_n\source\repos\53-News App\53-News App\bin\Debug\netcoreapp3.1\53-News App.exe
+C:\Users\leo_n\source\repos\53-News App\53-News App\obj\Debug\netcoreapp3.1\53-News App.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\53-News App\53-News App\obj\Debug\netcoreapp3.1\53-News App.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\53-News App\53-News App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leo_n\source\repos\53-News App\53-News App\obj\Debug\netcoreapp3.1\53-News App.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\53-News App\53-News App\obj\Debug\netcoreapp3.1\53-News App.csproj.CopyComplete

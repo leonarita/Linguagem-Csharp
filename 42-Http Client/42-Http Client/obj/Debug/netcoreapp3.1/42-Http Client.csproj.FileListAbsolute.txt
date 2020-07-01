@@ -1,0 +1,13 @@
+C:\Users\leo_n\source\repos\42-Http Client\42-Http Client\bin\Debug\netcoreapp3.1\42-Http Client.exe
+C:\Users\leo_n\source\repos\42-Http Client\42-Http Client\bin\Debug\netcoreapp3.1\42-Http Client.deps.json
+C:\Users\leo_n\source\repos\42-Http Client\42-Http Client\bin\Debug\netcoreapp3.1\42-Http Client.runtimeconfig.json
+C:\Users\leo_n\source\repos\42-Http Client\42-Http Client\bin\Debug\netcoreapp3.1\42-Http Client.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\42-Http Client\42-Http Client\bin\Debug\netcoreapp3.1\42-Http Client.dll
+C:\Users\leo_n\source\repos\42-Http Client\42-Http Client\bin\Debug\netcoreapp3.1\42-Http Client.pdb
+C:\Users\leo_n\source\repos\42-Http Client\42-Http Client\obj\Debug\netcoreapp3.1\42-Http Client.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\42-Http Client\42-Http Client\obj\Debug\netcoreapp3.1\42-Http Client.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\42-Http Client\42-Http Client\obj\Debug\netcoreapp3.1\42-Http Client.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\42-Http Client\42-Http Client\obj\Debug\netcoreapp3.1\42-Http Client.dll
+C:\Users\leo_n\source\repos\42-Http Client\42-Http Client\obj\Debug\netcoreapp3.1\42-Http Client.pdb
+C:\Users\leo_n\source\repos\42-Http Client\42-Http Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leo_n\source\repos\42-Http Client\42-Http Client\obj\Debug\netcoreapp3.1\42-Http Client.csproj.CopyComplete

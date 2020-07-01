@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22-Paletas de Cores", "22-Paletas de Cores\22-Paletas de Cores.csproj", "{7414D831-8F54-4EB1-8D61-BBE5533F4604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7414D831-8F54-4EB1-8D61-BBE5533F4604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7414D831-8F54-4EB1-8D61-BBE5533F4604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7414D831-8F54-4EB1-8D61-BBE5533F4604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7414D831-8F54-4EB1-8D61-BBE5533F4604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7307BD32-BB81-4517-83EE-A7C4E7B27270}
+	EndGlobalSection
+EndGlobal

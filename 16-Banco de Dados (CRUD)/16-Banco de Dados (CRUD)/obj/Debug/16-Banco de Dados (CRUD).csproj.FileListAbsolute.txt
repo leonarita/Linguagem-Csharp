@@ -1,0 +1,9 @@
+C:\Users\leo_n\source\repos\16-Banco de Dados (CRUD)\16-Banco de Dados (CRUD)\bin\Debug\16-Banco de Dados (CRUD).exe.config
+C:\Users\leo_n\source\repos\16-Banco de Dados (CRUD)\16-Banco de Dados (CRUD)\bin\Debug\16-Banco de Dados (CRUD).exe
+C:\Users\leo_n\source\repos\16-Banco de Dados (CRUD)\16-Banco de Dados (CRUD)\bin\Debug\16-Banco de Dados (CRUD).pdb
+C:\Users\leo_n\source\repos\16-Banco de Dados (CRUD)\16-Banco de Dados (CRUD)\obj\Debug\16-Banco de Dados (CRUD).csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\16-Banco de Dados (CRUD)\16-Banco de Dados (CRUD)\obj\Debug\_16_Banco_de_Dados__CRUD_.Form1.resources
+C:\Users\leo_n\source\repos\16-Banco de Dados (CRUD)\16-Banco de Dados (CRUD)\obj\Debug\_16_Banco_de_Dados__CRUD_.Properties.Resources.resources
+C:\Users\leo_n\source\repos\16-Banco de Dados (CRUD)\16-Banco de Dados (CRUD)\obj\Debug\16-Banco de Dados (CRUD).csproj.GenerateResource.cache
+C:\Users\leo_n\source\repos\16-Banco de Dados (CRUD)\16-Banco de Dados (CRUD)\obj\Debug\16-Banco de Dados (CRUD).exe
+C:\Users\leo_n\source\repos\16-Banco de Dados (CRUD)\16-Banco de Dados (CRUD)\obj\Debug\16-Banco de Dados (CRUD).pdb

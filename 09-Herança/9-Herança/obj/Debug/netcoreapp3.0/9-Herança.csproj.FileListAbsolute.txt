@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\9-Herança\9-Herança\obj\Debug\netcoreapp3.0\9-Herança.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\9-Herança\9-Herança\obj\Debug\netcoreapp3.0\9-Herança.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\9-Herança\9-Herança\obj\Debug\netcoreapp3.0\9-Herança.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\9-Herança\9-Herança\bin\Debug\netcoreapp3.0\9-Herança.exe
+C:\Users\leo_n\source\repos\9-Herança\9-Herança\bin\Debug\netcoreapp3.0\9-Herança.deps.json
+C:\Users\leo_n\source\repos\9-Herança\9-Herança\bin\Debug\netcoreapp3.0\9-Herança.runtimeconfig.json
+C:\Users\leo_n\source\repos\9-Herança\9-Herança\bin\Debug\netcoreapp3.0\9-Herança.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\9-Herança\9-Herança\bin\Debug\netcoreapp3.0\9-Herança.dll
+C:\Users\leo_n\source\repos\9-Herança\9-Herança\bin\Debug\netcoreapp3.0\9-Herança.pdb
+C:\Users\leo_n\source\repos\9-Herança\9-Herança\obj\Debug\netcoreapp3.0\9-Herança.dll
+C:\Users\leo_n\source\repos\9-Herança\9-Herança\obj\Debug\netcoreapp3.0\9-Herança.pdb

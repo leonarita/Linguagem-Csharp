@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\7-Classe e Objeto\7-Classe e Objeto\bin\Debug\netcoreapp3.0\7-Classe e Objeto.exe
+C:\Users\leo_n\source\repos\7-Classe e Objeto\7-Classe e Objeto\bin\Debug\netcoreapp3.0\7-Classe e Objeto.deps.json
+C:\Users\leo_n\source\repos\7-Classe e Objeto\7-Classe e Objeto\bin\Debug\netcoreapp3.0\7-Classe e Objeto.runtimeconfig.json
+C:\Users\leo_n\source\repos\7-Classe e Objeto\7-Classe e Objeto\bin\Debug\netcoreapp3.0\7-Classe e Objeto.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\7-Classe e Objeto\7-Classe e Objeto\bin\Debug\netcoreapp3.0\7-Classe e Objeto.dll
+C:\Users\leo_n\source\repos\7-Classe e Objeto\7-Classe e Objeto\bin\Debug\netcoreapp3.0\7-Classe e Objeto.pdb
+C:\Users\leo_n\source\repos\7-Classe e Objeto\7-Classe e Objeto\obj\Debug\netcoreapp3.0\7-Classe e Objeto.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\7-Classe e Objeto\7-Classe e Objeto\obj\Debug\netcoreapp3.0\7-Classe e Objeto.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\7-Classe e Objeto\7-Classe e Objeto\obj\Debug\netcoreapp3.0\7-Classe e Objeto.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\7-Classe e Objeto\7-Classe e Objeto\obj\Debug\netcoreapp3.0\7-Classe e Objeto.dll
+C:\Users\leo_n\source\repos\7-Classe e Objeto\7-Classe e Objeto\obj\Debug\netcoreapp3.0\7-Classe e Objeto.pdb

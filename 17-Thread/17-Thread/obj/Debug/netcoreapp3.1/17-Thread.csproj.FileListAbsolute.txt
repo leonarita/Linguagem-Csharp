@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\17-Thread\17-Thread\bin\Debug\netcoreapp3.1\17-Thread.exe
+C:\Users\leo_n\source\repos\17-Thread\17-Thread\bin\Debug\netcoreapp3.1\17-Thread.deps.json
+C:\Users\leo_n\source\repos\17-Thread\17-Thread\bin\Debug\netcoreapp3.1\17-Thread.runtimeconfig.json
+C:\Users\leo_n\source\repos\17-Thread\17-Thread\bin\Debug\netcoreapp3.1\17-Thread.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\17-Thread\17-Thread\bin\Debug\netcoreapp3.1\17-Thread.dll
+C:\Users\leo_n\source\repos\17-Thread\17-Thread\bin\Debug\netcoreapp3.1\17-Thread.pdb
+C:\Users\leo_n\source\repos\17-Thread\17-Thread\obj\Debug\netcoreapp3.1\17-Thread.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\17-Thread\17-Thread\obj\Debug\netcoreapp3.1\17-Thread.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\17-Thread\17-Thread\obj\Debug\netcoreapp3.1\17-Thread.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\17-Thread\17-Thread\obj\Debug\netcoreapp3.1\17-Thread.dll
+C:\Users\leo_n\source\repos\17-Thread\17-Thread\obj\Debug\netcoreapp3.1\17-Thread.pdb

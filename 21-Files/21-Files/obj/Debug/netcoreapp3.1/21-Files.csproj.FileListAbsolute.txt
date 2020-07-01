@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\21-Files\21-Files\obj\Debug\netcoreapp3.1\21-Files.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\21-Files\21-Files\obj\Debug\netcoreapp3.1\21-Files.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\21-Files\21-Files\obj\Debug\netcoreapp3.1\21-Files.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\21-Files\21-Files\bin\Debug\netcoreapp3.1\21-Files.exe
+C:\Users\leo_n\source\repos\21-Files\21-Files\bin\Debug\netcoreapp3.1\21-Files.deps.json
+C:\Users\leo_n\source\repos\21-Files\21-Files\bin\Debug\netcoreapp3.1\21-Files.runtimeconfig.json
+C:\Users\leo_n\source\repos\21-Files\21-Files\bin\Debug\netcoreapp3.1\21-Files.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\21-Files\21-Files\bin\Debug\netcoreapp3.1\21-Files.dll
+C:\Users\leo_n\source\repos\21-Files\21-Files\bin\Debug\netcoreapp3.1\21-Files.pdb
+C:\Users\leo_n\source\repos\21-Files\21-Files\obj\Debug\netcoreapp3.1\21-Files.dll
+C:\Users\leo_n\source\repos\21-Files\21-Files\obj\Debug\netcoreapp3.1\21-Files.pdb

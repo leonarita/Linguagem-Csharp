@@ -1,0 +1,10 @@
+C:\Users\leo_n\source\repos\5-Métodos com return\5-Métodos com return\bin\Debug\netcoreapp3.0\5-Métodos com return.exe
+C:\Users\leo_n\source\repos\5-Métodos com return\5-Métodos com return\bin\Debug\netcoreapp3.0\5-Métodos com return.deps.json
+C:\Users\leo_n\source\repos\5-Métodos com return\5-Métodos com return\bin\Debug\netcoreapp3.0\5-Métodos com return.runtimeconfig.json
+C:\Users\leo_n\source\repos\5-Métodos com return\5-Métodos com return\bin\Debug\netcoreapp3.0\5-Métodos com return.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\5-Métodos com return\5-Métodos com return\bin\Debug\netcoreapp3.0\5-Métodos com return.dll
+C:\Users\leo_n\source\repos\5-Métodos com return\5-Métodos com return\bin\Debug\netcoreapp3.0\5-Métodos com return.pdb
+C:\Users\leo_n\source\repos\5-Métodos com return\5-Métodos com return\obj\Debug\netcoreapp3.0\5-Métodos com return.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\5-Métodos com return\5-Métodos com return\obj\Debug\netcoreapp3.0\5-Métodos com return.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\5-Métodos com return\5-Métodos com return\obj\Debug\netcoreapp3.0\5-Métodos com return.dll
+C:\Users\leo_n\source\repos\5-Métodos com return\5-Métodos com return\obj\Debug\netcoreapp3.0\5-Métodos com return.pdb

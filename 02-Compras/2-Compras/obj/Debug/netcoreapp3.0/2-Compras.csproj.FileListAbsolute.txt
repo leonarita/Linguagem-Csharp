@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\2-Compras\2-Compras\bin\Debug\netcoreapp3.0\2-Compras.exe
+C:\Users\leo_n\source\repos\2-Compras\2-Compras\bin\Debug\netcoreapp3.0\2-Compras.deps.json
+C:\Users\leo_n\source\repos\2-Compras\2-Compras\bin\Debug\netcoreapp3.0\2-Compras.runtimeconfig.json
+C:\Users\leo_n\source\repos\2-Compras\2-Compras\bin\Debug\netcoreapp3.0\2-Compras.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\2-Compras\2-Compras\bin\Debug\netcoreapp3.0\2-Compras.dll
+C:\Users\leo_n\source\repos\2-Compras\2-Compras\bin\Debug\netcoreapp3.0\2-Compras.pdb
+C:\Users\leo_n\source\repos\2-Compras\2-Compras\obj\Debug\netcoreapp3.0\2-Compras.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\2-Compras\2-Compras\obj\Debug\netcoreapp3.0\2-Compras.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\2-Compras\2-Compras\obj\Debug\netcoreapp3.0\2-Compras.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\2-Compras\2-Compras\obj\Debug\netcoreapp3.0\2-Compras.dll
+C:\Users\leo_n\source\repos\2-Compras\2-Compras\obj\Debug\netcoreapp3.0\2-Compras.pdb

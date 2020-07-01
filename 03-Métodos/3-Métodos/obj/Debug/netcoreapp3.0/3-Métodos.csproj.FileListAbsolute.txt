@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\3-Métodos\3-Métodos\bin\Debug\netcoreapp3.0\3-Métodos.exe
+C:\Users\leo_n\source\repos\3-Métodos\3-Métodos\bin\Debug\netcoreapp3.0\3-Métodos.deps.json
+C:\Users\leo_n\source\repos\3-Métodos\3-Métodos\bin\Debug\netcoreapp3.0\3-Métodos.runtimeconfig.json
+C:\Users\leo_n\source\repos\3-Métodos\3-Métodos\bin\Debug\netcoreapp3.0\3-Métodos.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\3-Métodos\3-Métodos\bin\Debug\netcoreapp3.0\3-Métodos.dll
+C:\Users\leo_n\source\repos\3-Métodos\3-Métodos\bin\Debug\netcoreapp3.0\3-Métodos.pdb
+C:\Users\leo_n\source\repos\3-Métodos\3-Métodos\obj\Debug\netcoreapp3.0\3-Métodos.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\3-Métodos\3-Métodos\obj\Debug\netcoreapp3.0\3-Métodos.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\3-Métodos\3-Métodos\obj\Debug\netcoreapp3.0\3-Métodos.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\3-Métodos\3-Métodos\obj\Debug\netcoreapp3.0\3-Métodos.dll
+C:\Users\leo_n\source\repos\3-Métodos\3-Métodos\obj\Debug\netcoreapp3.0\3-Métodos.pdb

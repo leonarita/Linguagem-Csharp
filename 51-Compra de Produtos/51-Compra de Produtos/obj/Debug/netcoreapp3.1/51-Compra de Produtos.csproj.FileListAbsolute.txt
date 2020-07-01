@@ -1,0 +1,10 @@
+C:\Users\leo_n\source\repos\51-Compra de Produtos\51-Compra de Produtos\bin\Debug\netcoreapp3.1\51-Compra de Produtos.exe
+C:\Users\leo_n\source\repos\51-Compra de Produtos\51-Compra de Produtos\bin\Debug\netcoreapp3.1\51-Compra de Produtos.deps.json
+C:\Users\leo_n\source\repos\51-Compra de Produtos\51-Compra de Produtos\bin\Debug\netcoreapp3.1\51-Compra de Produtos.runtimeconfig.json
+C:\Users\leo_n\source\repos\51-Compra de Produtos\51-Compra de Produtos\bin\Debug\netcoreapp3.1\51-Compra de Produtos.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\51-Compra de Produtos\51-Compra de Produtos\bin\Debug\netcoreapp3.1\51-Compra de Produtos.dll
+C:\Users\leo_n\source\repos\51-Compra de Produtos\51-Compra de Produtos\bin\Debug\netcoreapp3.1\51-Compra de Produtos.pdb
+C:\Users\leo_n\source\repos\51-Compra de Produtos\51-Compra de Produtos\obj\Debug\netcoreapp3.1\51-Compra de Produtos.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\51-Compra de Produtos\51-Compra de Produtos\obj\Debug\netcoreapp3.1\51-Compra de Produtos.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\51-Compra de Produtos\51-Compra de Produtos\obj\Debug\netcoreapp3.1\51-Compra de Produtos.dll
+C:\Users\leo_n\source\repos\51-Compra de Produtos\51-Compra de Produtos\obj\Debug\netcoreapp3.1\51-Compra de Produtos.pdb

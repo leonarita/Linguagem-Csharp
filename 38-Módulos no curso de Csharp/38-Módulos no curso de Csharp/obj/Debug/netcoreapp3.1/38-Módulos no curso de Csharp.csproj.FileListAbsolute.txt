@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\38-Módulos no curso de Csharp\38-Módulos no curso de Csharp\bin\Debug\netcoreapp3.1\38-Módulos no curso de Csharp.exe
+C:\Users\leo_n\source\repos\38-Módulos no curso de Csharp\38-Módulos no curso de Csharp\bin\Debug\netcoreapp3.1\38-Módulos no curso de Csharp.deps.json
+C:\Users\leo_n\source\repos\38-Módulos no curso de Csharp\38-Módulos no curso de Csharp\bin\Debug\netcoreapp3.1\38-Módulos no curso de Csharp.runtimeconfig.json
+C:\Users\leo_n\source\repos\38-Módulos no curso de Csharp\38-Módulos no curso de Csharp\bin\Debug\netcoreapp3.1\38-Módulos no curso de Csharp.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\38-Módulos no curso de Csharp\38-Módulos no curso de Csharp\bin\Debug\netcoreapp3.1\38-Módulos no curso de Csharp.dll
+C:\Users\leo_n\source\repos\38-Módulos no curso de Csharp\38-Módulos no curso de Csharp\bin\Debug\netcoreapp3.1\38-Módulos no curso de Csharp.pdb
+C:\Users\leo_n\source\repos\38-Módulos no curso de Csharp\38-Módulos no curso de Csharp\obj\Debug\netcoreapp3.1\38-Módulos no curso de Csharp.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\38-Módulos no curso de Csharp\38-Módulos no curso de Csharp\obj\Debug\netcoreapp3.1\38-Módulos no curso de Csharp.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\38-Módulos no curso de Csharp\38-Módulos no curso de Csharp\obj\Debug\netcoreapp3.1\38-Módulos no curso de Csharp.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\38-Módulos no curso de Csharp\38-Módulos no curso de Csharp\obj\Debug\netcoreapp3.1\38-Módulos no curso de Csharp.dll
+C:\Users\leo_n\source\repos\38-Módulos no curso de Csharp\38-Módulos no curso de Csharp\obj\Debug\netcoreapp3.1\38-Módulos no curso de Csharp.pdb

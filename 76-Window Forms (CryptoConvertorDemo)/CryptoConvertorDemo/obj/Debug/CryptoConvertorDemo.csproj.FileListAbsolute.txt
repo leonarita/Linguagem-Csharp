@@ -1,0 +1,13 @@
+C:\Users\pLoTo\source\repos\CryptoConvertorDemo\CryptoConvertorDemo\bin\Debug\CryptoConvertorDemo.exe
+C:\Users\pLoTo\source\repos\CryptoConvertorDemo\CryptoConvertorDemo\bin\Debug\CryptoConvertorDemo.pdb
+C:\Users\pLoTo\source\repos\CryptoConvertorDemo\CryptoConvertorDemo\bin\Debug\Guna.UI2.dll
+C:\Users\pLoTo\source\repos\CryptoConvertorDemo\CryptoConvertorDemo\obj\Debug\CryptoConvertorDemo.csprojAssemblyReference.cache
+C:\Users\pLoTo\source\repos\CryptoConvertorDemo\CryptoConvertorDemo\obj\Debug\CryptoConvertorDemo.Form1.resources
+C:\Users\pLoTo\source\repos\CryptoConvertorDemo\CryptoConvertorDemo\obj\Debug\CryptoConvertorDemo.Properties.Resources.resources
+C:\Users\pLoTo\source\repos\CryptoConvertorDemo\CryptoConvertorDemo\obj\Debug\CryptoConvertorDemo.UCCrypto.resources
+C:\Users\pLoTo\source\repos\CryptoConvertorDemo\CryptoConvertorDemo\obj\Debug\CryptoConvertorDemo.UCHome.resources
+C:\Users\pLoTo\source\repos\CryptoConvertorDemo\CryptoConvertorDemo\obj\Debug\CryptoConvertorDemo.csproj.GenerateResource.cache
+C:\Users\pLoTo\source\repos\CryptoConvertorDemo\CryptoConvertorDemo\obj\Debug\CryptoConvertorDemo.csproj.CoreCompileInputs.cache
+C:\Users\pLoTo\source\repos\CryptoConvertorDemo\CryptoConvertorDemo\obj\Debug\CryptoConvertorDemo.csproj.CopyComplete
+C:\Users\pLoTo\source\repos\CryptoConvertorDemo\CryptoConvertorDemo\obj\Debug\CryptoConvertorDemo.exe
+C:\Users\pLoTo\source\repos\CryptoConvertorDemo\CryptoConvertorDemo\obj\Debug\CryptoConvertorDemo.pdb

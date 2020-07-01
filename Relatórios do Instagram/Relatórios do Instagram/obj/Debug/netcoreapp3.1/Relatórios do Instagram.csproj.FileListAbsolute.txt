@@ -1,0 +1,13 @@
+C:\Users\leo_n\source\repos\Relatórios do Instagram\Relatórios do Instagram\bin\Debug\netcoreapp3.1\Relatórios do Instagram.exe
+C:\Users\leo_n\source\repos\Relatórios do Instagram\Relatórios do Instagram\bin\Debug\netcoreapp3.1\Relatórios do Instagram.deps.json
+C:\Users\leo_n\source\repos\Relatórios do Instagram\Relatórios do Instagram\bin\Debug\netcoreapp3.1\Relatórios do Instagram.runtimeconfig.json
+C:\Users\leo_n\source\repos\Relatórios do Instagram\Relatórios do Instagram\bin\Debug\netcoreapp3.1\Relatórios do Instagram.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\Relatórios do Instagram\Relatórios do Instagram\bin\Debug\netcoreapp3.1\Relatórios do Instagram.dll
+C:\Users\leo_n\source\repos\Relatórios do Instagram\Relatórios do Instagram\bin\Debug\netcoreapp3.1\Relatórios do Instagram.pdb
+C:\Users\leo_n\source\repos\Relatórios do Instagram\Relatórios do Instagram\obj\Debug\netcoreapp3.1\Relatórios do Instagram.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\Relatórios do Instagram\Relatórios do Instagram\obj\Debug\netcoreapp3.1\Relatórios do Instagram.csproj.CoreCompileInputs.cache
+C:\Users\leo_n\source\repos\Relatórios do Instagram\Relatórios do Instagram\obj\Debug\netcoreapp3.1\Relatórios do Instagram.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\Relatórios do Instagram\Relatórios do Instagram\obj\Debug\netcoreapp3.1\Relatórios do Instagram.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\Relatórios do Instagram\Relatórios do Instagram\obj\Debug\netcoreapp3.1\Relatórios do Instagram.dll
+C:\Users\leo_n\source\repos\Relatórios do Instagram\Relatórios do Instagram\obj\Debug\netcoreapp3.1\Relatórios do Instagram.pdb
+C:\Users\leo_n\source\repos\Relatórios do Instagram\Relatórios do Instagram\obj\Debug\netcoreapp3.1\Relatórios do Instagram.genruntimeconfig.cache

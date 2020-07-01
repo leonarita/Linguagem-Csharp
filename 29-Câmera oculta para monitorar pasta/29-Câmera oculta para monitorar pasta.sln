@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29-Câmera oculta para monitorar pasta", "29-Câmera oculta para monitorar pasta\29-Câmera oculta para monitorar pasta.csproj", "{FD3ABF50-D015-4285-9DC2-61ECE73FDCC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD3ABF50-D015-4285-9DC2-61ECE73FDCC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD3ABF50-D015-4285-9DC2-61ECE73FDCC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD3ABF50-D015-4285-9DC2-61ECE73FDCC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD3ABF50-D015-4285-9DC2-61ECE73FDCC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B1A20AE-5BFA-4B82-8F6E-0A32CA6861D9}
+	EndGlobalSection
+EndGlobal

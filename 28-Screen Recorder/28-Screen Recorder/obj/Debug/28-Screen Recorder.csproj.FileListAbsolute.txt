@@ -1,0 +1,15 @@
+C:\Users\leo_n\source\repos\28-Screen Recorder\28-Screen Recorder\bin\Debug\28-Screen Recorder.exe.config
+C:\Users\leo_n\source\repos\28-Screen Recorder\28-Screen Recorder\bin\Debug\28-Screen Recorder.exe
+C:\Users\leo_n\source\repos\28-Screen Recorder\28-Screen Recorder\bin\Debug\28-Screen Recorder.pdb
+C:\Users\leo_n\source\repos\28-Screen Recorder\28-Screen Recorder\bin\Debug\Microsoft.Expression.Encoder.dll
+C:\Users\leo_n\source\repos\28-Screen Recorder\28-Screen Recorder\bin\Debug\Microsoft.Expression.Encoder.Utilities.dll
+C:\Users\leo_n\source\repos\28-Screen Recorder\28-Screen Recorder\bin\Debug\Microsoft.Expression.Encoder.Types.dll
+C:\Users\leo_n\source\repos\28-Screen Recorder\28-Screen Recorder\bin\Debug\Microsoft.Expression.Encoder.Utilities.xml
+C:\Users\leo_n\source\repos\28-Screen Recorder\28-Screen Recorder\bin\Debug\Microsoft.Expression.Encoder.Types.xml
+C:\Users\leo_n\source\repos\28-Screen Recorder\28-Screen Recorder\obj\Debug\28-Screen Recorder.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\28-Screen Recorder\28-Screen Recorder\obj\Debug\_28_Screen_Recorder.Form1.resources
+C:\Users\leo_n\source\repos\28-Screen Recorder\28-Screen Recorder\obj\Debug\_28_Screen_Recorder.Properties.Resources.resources
+C:\Users\leo_n\source\repos\28-Screen Recorder\28-Screen Recorder\obj\Debug\28-Screen Recorder.csproj.GenerateResource.cache
+C:\Users\leo_n\source\repos\28-Screen Recorder\28-Screen Recorder\obj\Debug\28-Screen Recorder.csproj.CopyComplete
+C:\Users\leo_n\source\repos\28-Screen Recorder\28-Screen Recorder\obj\Debug\28-Screen Recorder.exe
+C:\Users\leo_n\source\repos\28-Screen Recorder\28-Screen Recorder\obj\Debug\28-Screen Recorder.pdb

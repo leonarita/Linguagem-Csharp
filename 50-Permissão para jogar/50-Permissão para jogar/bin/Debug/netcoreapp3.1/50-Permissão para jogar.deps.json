@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "50-Permissão para jogar/1.0.0": {
+        "runtime": {
+          "50-Permissão para jogar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "50-Permissão para jogar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

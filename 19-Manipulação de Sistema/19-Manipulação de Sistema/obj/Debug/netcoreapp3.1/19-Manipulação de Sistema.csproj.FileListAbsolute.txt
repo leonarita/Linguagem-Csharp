@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\19-Manipulação de Sistema\19-Manipulação de Sistema\bin\Debug\netcoreapp3.1\19-Manipulação de Sistema.exe
+C:\Users\leo_n\source\repos\19-Manipulação de Sistema\19-Manipulação de Sistema\bin\Debug\netcoreapp3.1\19-Manipulação de Sistema.deps.json
+C:\Users\leo_n\source\repos\19-Manipulação de Sistema\19-Manipulação de Sistema\bin\Debug\netcoreapp3.1\19-Manipulação de Sistema.runtimeconfig.json
+C:\Users\leo_n\source\repos\19-Manipulação de Sistema\19-Manipulação de Sistema\bin\Debug\netcoreapp3.1\19-Manipulação de Sistema.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\19-Manipulação de Sistema\19-Manipulação de Sistema\bin\Debug\netcoreapp3.1\19-Manipulação de Sistema.dll
+C:\Users\leo_n\source\repos\19-Manipulação de Sistema\19-Manipulação de Sistema\bin\Debug\netcoreapp3.1\19-Manipulação de Sistema.pdb
+C:\Users\leo_n\source\repos\19-Manipulação de Sistema\19-Manipulação de Sistema\obj\Debug\netcoreapp3.1\19-Manipulação de Sistema.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\19-Manipulação de Sistema\19-Manipulação de Sistema\obj\Debug\netcoreapp3.1\19-Manipulação de Sistema.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\19-Manipulação de Sistema\19-Manipulação de Sistema\obj\Debug\netcoreapp3.1\19-Manipulação de Sistema.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\19-Manipulação de Sistema\19-Manipulação de Sistema\obj\Debug\netcoreapp3.1\19-Manipulação de Sistema.dll
+C:\Users\leo_n\source\repos\19-Manipulação de Sistema\19-Manipulação de Sistema\obj\Debug\netcoreapp3.1\19-Manipulação de Sistema.pdb

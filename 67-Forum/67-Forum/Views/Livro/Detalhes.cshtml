@@ -1,0 +1,37 @@
+﻿
+@model _67_Forum.Models.Livro
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Detahes do Livro</title>
+</head>
+
+<body>
+    <h4>@Model.Titulo</h4>
+    <hr />
+
+    <ul>
+
+        <li>
+            Autor: <b> @Model.Autor </b>
+        </li>
+            
+        <li>
+            Área: @Html.ActionLink(Model.Area, "Area", "Livro", new { @area = Model.Area }, null)
+        </li>
+
+        <li>
+            Preço: <b> @Model.Preco.ToString("0.00") </b>
+            <br /><br />
+        </li>
+
+    </ul>
+
+    @Html.ActionLink("Voltar", "Index")
+
+</body>
+
+</html>

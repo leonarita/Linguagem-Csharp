@@ -1,0 +1,9 @@
+C:\Users\leo_n\source\repos\34-Validar CNPJ\34-Validar CNPJ\obj\Debug\34-Validar CNPJ.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\34-Validar CNPJ\34-Validar CNPJ\obj\Debug\_34_Validar_CNPJ.Form1.resources
+C:\Users\leo_n\source\repos\34-Validar CNPJ\34-Validar CNPJ\obj\Debug\_34_Validar_CNPJ.Properties.Resources.resources
+C:\Users\leo_n\source\repos\34-Validar CNPJ\34-Validar CNPJ\obj\Debug\34-Validar CNPJ.csproj.GenerateResource.cache
+C:\Users\leo_n\source\repos\34-Validar CNPJ\34-Validar CNPJ\bin\Debug\34-Validar CNPJ.exe.config
+C:\Users\leo_n\source\repos\34-Validar CNPJ\34-Validar CNPJ\bin\Debug\34-Validar CNPJ.exe
+C:\Users\leo_n\source\repos\34-Validar CNPJ\34-Validar CNPJ\bin\Debug\34-Validar CNPJ.pdb
+C:\Users\leo_n\source\repos\34-Validar CNPJ\34-Validar CNPJ\obj\Debug\34-Validar CNPJ.exe
+C:\Users\leo_n\source\repos\34-Validar CNPJ\34-Validar CNPJ\obj\Debug\34-Validar CNPJ.pdb

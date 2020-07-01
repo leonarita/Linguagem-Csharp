@@ -1,0 +1,10 @@
+C:\Users\leo_n\source\repos\46-Generics\46-Generics\bin\Debug\netcoreapp3.1\46-Generics.exe
+C:\Users\leo_n\source\repos\46-Generics\46-Generics\bin\Debug\netcoreapp3.1\46-Generics.deps.json
+C:\Users\leo_n\source\repos\46-Generics\46-Generics\bin\Debug\netcoreapp3.1\46-Generics.runtimeconfig.json
+C:\Users\leo_n\source\repos\46-Generics\46-Generics\bin\Debug\netcoreapp3.1\46-Generics.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\46-Generics\46-Generics\bin\Debug\netcoreapp3.1\46-Generics.dll
+C:\Users\leo_n\source\repos\46-Generics\46-Generics\bin\Debug\netcoreapp3.1\46-Generics.pdb
+C:\Users\leo_n\source\repos\46-Generics\46-Generics\obj\Debug\netcoreapp3.1\46-Generics.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\46-Generics\46-Generics\obj\Debug\netcoreapp3.1\46-Generics.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\46-Generics\46-Generics\obj\Debug\netcoreapp3.1\46-Generics.dll
+C:\Users\leo_n\source\repos\46-Generics\46-Generics\obj\Debug\netcoreapp3.1\46-Generics.pdb

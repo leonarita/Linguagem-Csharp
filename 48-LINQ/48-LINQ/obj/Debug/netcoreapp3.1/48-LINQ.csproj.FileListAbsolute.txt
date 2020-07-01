@@ -1,0 +1,10 @@
+C:\Users\leo_n\source\repos\48-LINQ\48-LINQ\bin\Debug\netcoreapp3.1\48-LINQ.exe
+C:\Users\leo_n\source\repos\48-LINQ\48-LINQ\bin\Debug\netcoreapp3.1\48-LINQ.deps.json
+C:\Users\leo_n\source\repos\48-LINQ\48-LINQ\bin\Debug\netcoreapp3.1\48-LINQ.runtimeconfig.json
+C:\Users\leo_n\source\repos\48-LINQ\48-LINQ\bin\Debug\netcoreapp3.1\48-LINQ.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\48-LINQ\48-LINQ\bin\Debug\netcoreapp3.1\48-LINQ.dll
+C:\Users\leo_n\source\repos\48-LINQ\48-LINQ\bin\Debug\netcoreapp3.1\48-LINQ.pdb
+C:\Users\leo_n\source\repos\48-LINQ\48-LINQ\obj\Debug\netcoreapp3.1\48-LINQ.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\48-LINQ\48-LINQ\obj\Debug\netcoreapp3.1\48-LINQ.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\48-LINQ\48-LINQ\obj\Debug\netcoreapp3.1\48-LINQ.dll
+C:\Users\leo_n\source\repos\48-LINQ\48-LINQ\obj\Debug\netcoreapp3.1\48-LINQ.pdb

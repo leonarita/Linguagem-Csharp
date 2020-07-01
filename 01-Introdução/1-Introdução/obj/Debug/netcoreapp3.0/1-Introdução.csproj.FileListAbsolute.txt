@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\1-Introdução\1-Introdução\bin\Debug\netcoreapp3.0\1-Introdução.exe
+C:\Users\leo_n\source\repos\1-Introdução\1-Introdução\bin\Debug\netcoreapp3.0\1-Introdução.deps.json
+C:\Users\leo_n\source\repos\1-Introdução\1-Introdução\bin\Debug\netcoreapp3.0\1-Introdução.runtimeconfig.json
+C:\Users\leo_n\source\repos\1-Introdução\1-Introdução\bin\Debug\netcoreapp3.0\1-Introdução.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\1-Introdução\1-Introdução\bin\Debug\netcoreapp3.0\1-Introdução.dll
+C:\Users\leo_n\source\repos\1-Introdução\1-Introdução\bin\Debug\netcoreapp3.0\1-Introdução.pdb
+C:\Users\leo_n\source\repos\1-Introdução\1-Introdução\obj\Debug\netcoreapp3.0\1-Introdução.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\1-Introdução\1-Introdução\obj\Debug\netcoreapp3.0\1-Introdução.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\1-Introdução\1-Introdução\obj\Debug\netcoreapp3.0\1-Introdução.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\1-Introdução\1-Introdução\obj\Debug\netcoreapp3.0\1-Introdução.dll
+C:\Users\leo_n\source\repos\1-Introdução\1-Introdução\obj\Debug\netcoreapp3.0\1-Introdução.pdb

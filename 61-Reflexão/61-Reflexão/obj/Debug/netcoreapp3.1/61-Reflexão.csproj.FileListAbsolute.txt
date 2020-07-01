@@ -1,0 +1,10 @@
+C:\Users\leo_n\source\repos\61-Reflexão\61-Reflexão\bin\Debug\netcoreapp3.1\61-Reflexão.exe
+C:\Users\leo_n\source\repos\61-Reflexão\61-Reflexão\bin\Debug\netcoreapp3.1\61-Reflexão.deps.json
+C:\Users\leo_n\source\repos\61-Reflexão\61-Reflexão\bin\Debug\netcoreapp3.1\61-Reflexão.runtimeconfig.json
+C:\Users\leo_n\source\repos\61-Reflexão\61-Reflexão\bin\Debug\netcoreapp3.1\61-Reflexão.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\61-Reflexão\61-Reflexão\bin\Debug\netcoreapp3.1\61-Reflexão.dll
+C:\Users\leo_n\source\repos\61-Reflexão\61-Reflexão\bin\Debug\netcoreapp3.1\61-Reflexão.pdb
+C:\Users\leo_n\source\repos\61-Reflexão\61-Reflexão\obj\Debug\netcoreapp3.1\61-Reflexão.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\61-Reflexão\61-Reflexão\obj\Debug\netcoreapp3.1\61-Reflexão.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\61-Reflexão\61-Reflexão\obj\Debug\netcoreapp3.1\61-Reflexão.dll
+C:\Users\leo_n\source\repos\61-Reflexão\61-Reflexão\obj\Debug\netcoreapp3.1\61-Reflexão.pdb

@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\29-Câmera oculta para monitorar pasta\29-Câmera oculta para monitorar pasta\bin\Debug\netcoreapp3.1\29-Câmera oculta para monitorar pasta.exe
+C:\Users\leo_n\source\repos\29-Câmera oculta para monitorar pasta\29-Câmera oculta para monitorar pasta\bin\Debug\netcoreapp3.1\29-Câmera oculta para monitorar pasta.deps.json
+C:\Users\leo_n\source\repos\29-Câmera oculta para monitorar pasta\29-Câmera oculta para monitorar pasta\bin\Debug\netcoreapp3.1\29-Câmera oculta para monitorar pasta.runtimeconfig.json
+C:\Users\leo_n\source\repos\29-Câmera oculta para monitorar pasta\29-Câmera oculta para monitorar pasta\bin\Debug\netcoreapp3.1\29-Câmera oculta para monitorar pasta.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\29-Câmera oculta para monitorar pasta\29-Câmera oculta para monitorar pasta\bin\Debug\netcoreapp3.1\29-Câmera oculta para monitorar pasta.dll
+C:\Users\leo_n\source\repos\29-Câmera oculta para monitorar pasta\29-Câmera oculta para monitorar pasta\bin\Debug\netcoreapp3.1\29-Câmera oculta para monitorar pasta.pdb
+C:\Users\leo_n\source\repos\29-Câmera oculta para monitorar pasta\29-Câmera oculta para monitorar pasta\obj\Debug\netcoreapp3.1\29-Câmera oculta para monitorar pasta.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\29-Câmera oculta para monitorar pasta\29-Câmera oculta para monitorar pasta\obj\Debug\netcoreapp3.1\29-Câmera oculta para monitorar pasta.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\29-Câmera oculta para monitorar pasta\29-Câmera oculta para monitorar pasta\obj\Debug\netcoreapp3.1\29-Câmera oculta para monitorar pasta.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\29-Câmera oculta para monitorar pasta\29-Câmera oculta para monitorar pasta\obj\Debug\netcoreapp3.1\29-Câmera oculta para monitorar pasta.dll
+C:\Users\leo_n\source\repos\29-Câmera oculta para monitorar pasta\29-Câmera oculta para monitorar pasta\obj\Debug\netcoreapp3.1\29-Câmera oculta para monitorar pasta.pdb

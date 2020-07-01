@@ -1,0 +1,10 @@
+C:\Users\leo_n\source\repos\4-Sobreposição de Métodos\4-Sobreposição de Métodos\bin\Debug\netcoreapp3.0\4-Sobreposição de Métodos.exe
+C:\Users\leo_n\source\repos\4-Sobreposição de Métodos\4-Sobreposição de Métodos\bin\Debug\netcoreapp3.0\4-Sobreposição de Métodos.deps.json
+C:\Users\leo_n\source\repos\4-Sobreposição de Métodos\4-Sobreposição de Métodos\bin\Debug\netcoreapp3.0\4-Sobreposição de Métodos.runtimeconfig.json
+C:\Users\leo_n\source\repos\4-Sobreposição de Métodos\4-Sobreposição de Métodos\bin\Debug\netcoreapp3.0\4-Sobreposição de Métodos.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\4-Sobreposição de Métodos\4-Sobreposição de Métodos\bin\Debug\netcoreapp3.0\4-Sobreposição de Métodos.dll
+C:\Users\leo_n\source\repos\4-Sobreposição de Métodos\4-Sobreposição de Métodos\bin\Debug\netcoreapp3.0\4-Sobreposição de Métodos.pdb
+C:\Users\leo_n\source\repos\4-Sobreposição de Métodos\4-Sobreposição de Métodos\obj\Debug\netcoreapp3.0\4-Sobreposição de Métodos.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\4-Sobreposição de Métodos\4-Sobreposição de Métodos\obj\Debug\netcoreapp3.0\4-Sobreposição de Métodos.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\4-Sobreposição de Métodos\4-Sobreposição de Métodos\obj\Debug\netcoreapp3.0\4-Sobreposição de Métodos.dll
+C:\Users\leo_n\source\repos\4-Sobreposição de Métodos\4-Sobreposição de Métodos\obj\Debug\netcoreapp3.0\4-Sobreposição de Métodos.pdb

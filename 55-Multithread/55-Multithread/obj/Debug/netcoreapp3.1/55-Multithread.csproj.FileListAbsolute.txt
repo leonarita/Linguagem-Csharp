@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\55-Multithread\55-Multithread\bin\Debug\netcoreapp3.1\55-Multithread.exe
+C:\Users\leo_n\source\repos\55-Multithread\55-Multithread\bin\Debug\netcoreapp3.1\55-Multithread.deps.json
+C:\Users\leo_n\source\repos\55-Multithread\55-Multithread\bin\Debug\netcoreapp3.1\55-Multithread.runtimeconfig.json
+C:\Users\leo_n\source\repos\55-Multithread\55-Multithread\bin\Debug\netcoreapp3.1\55-Multithread.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\55-Multithread\55-Multithread\bin\Debug\netcoreapp3.1\55-Multithread.dll
+C:\Users\leo_n\source\repos\55-Multithread\55-Multithread\bin\Debug\netcoreapp3.1\55-Multithread.pdb
+C:\Users\leo_n\source\repos\55-Multithread\55-Multithread\obj\Debug\netcoreapp3.1\55-Multithread.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\55-Multithread\55-Multithread\obj\Debug\netcoreapp3.1\55-Multithread.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\55-Multithread\55-Multithread\obj\Debug\netcoreapp3.1\55-Multithread.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\55-Multithread\55-Multithread\obj\Debug\netcoreapp3.1\55-Multithread.dll
+C:\Users\leo_n\source\repos\55-Multithread\55-Multithread\obj\Debug\netcoreapp3.1\55-Multithread.pdb

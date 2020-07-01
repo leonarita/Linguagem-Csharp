@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\60-Reflection\60-Reflection\bin\Debug\netcoreapp3.1\60-Reflection.exe
+C:\Users\leo_n\source\repos\60-Reflection\60-Reflection\bin\Debug\netcoreapp3.1\60-Reflection.deps.json
+C:\Users\leo_n\source\repos\60-Reflection\60-Reflection\bin\Debug\netcoreapp3.1\60-Reflection.runtimeconfig.json
+C:\Users\leo_n\source\repos\60-Reflection\60-Reflection\bin\Debug\netcoreapp3.1\60-Reflection.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\60-Reflection\60-Reflection\bin\Debug\netcoreapp3.1\60-Reflection.dll
+C:\Users\leo_n\source\repos\60-Reflection\60-Reflection\bin\Debug\netcoreapp3.1\60-Reflection.pdb
+C:\Users\leo_n\source\repos\60-Reflection\60-Reflection\obj\Debug\netcoreapp3.1\60-Reflection.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\60-Reflection\60-Reflection\obj\Debug\netcoreapp3.1\60-Reflection.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\60-Reflection\60-Reflection\obj\Debug\netcoreapp3.1\60-Reflection.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\60-Reflection\60-Reflection\obj\Debug\netcoreapp3.1\60-Reflection.dll
+C:\Users\leo_n\source\repos\60-Reflection\60-Reflection\obj\Debug\netcoreapp3.1\60-Reflection.pdb

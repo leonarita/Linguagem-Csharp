@@ -1,0 +1,10 @@
+C:\Users\leo_n\source\repos\49-Files\49-Files\bin\Debug\netcoreapp3.1\49-Files.exe
+C:\Users\leo_n\source\repos\49-Files\49-Files\bin\Debug\netcoreapp3.1\49-Files.deps.json
+C:\Users\leo_n\source\repos\49-Files\49-Files\bin\Debug\netcoreapp3.1\49-Files.runtimeconfig.json
+C:\Users\leo_n\source\repos\49-Files\49-Files\bin\Debug\netcoreapp3.1\49-Files.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\49-Files\49-Files\bin\Debug\netcoreapp3.1\49-Files.dll
+C:\Users\leo_n\source\repos\49-Files\49-Files\bin\Debug\netcoreapp3.1\49-Files.pdb
+C:\Users\leo_n\source\repos\49-Files\49-Files\obj\Debug\netcoreapp3.1\49-Files.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\49-Files\49-Files\obj\Debug\netcoreapp3.1\49-Files.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\49-Files\49-Files\obj\Debug\netcoreapp3.1\49-Files.dll
+C:\Users\leo_n\source\repos\49-Files\49-Files\obj\Debug\netcoreapp3.1\49-Files.pdb

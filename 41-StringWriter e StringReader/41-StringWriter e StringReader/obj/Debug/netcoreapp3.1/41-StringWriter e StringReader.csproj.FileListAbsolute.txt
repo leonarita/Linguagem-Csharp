@@ -1,0 +1,13 @@
+C:\Users\leo_n\source\repos\41-StringWriter e StringReader\41-StringWriter e StringReader\bin\Debug\netcoreapp3.1\41-StringWriter e StringReader.exe
+C:\Users\leo_n\source\repos\41-StringWriter e StringReader\41-StringWriter e StringReader\bin\Debug\netcoreapp3.1\41-StringWriter e StringReader.deps.json
+C:\Users\leo_n\source\repos\41-StringWriter e StringReader\41-StringWriter e StringReader\bin\Debug\netcoreapp3.1\41-StringWriter e StringReader.runtimeconfig.json
+C:\Users\leo_n\source\repos\41-StringWriter e StringReader\41-StringWriter e StringReader\bin\Debug\netcoreapp3.1\41-StringWriter e StringReader.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\41-StringWriter e StringReader\41-StringWriter e StringReader\bin\Debug\netcoreapp3.1\41-StringWriter e StringReader.dll
+C:\Users\leo_n\source\repos\41-StringWriter e StringReader\41-StringWriter e StringReader\bin\Debug\netcoreapp3.1\41-StringWriter e StringReader.pdb
+C:\Users\leo_n\source\repos\41-StringWriter e StringReader\41-StringWriter e StringReader\obj\Debug\netcoreapp3.1\41-StringWriter e StringReader.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\41-StringWriter e StringReader\41-StringWriter e StringReader\obj\Debug\netcoreapp3.1\41-StringWriter e StringReader.csproj.CoreCompileInputs.cache
+C:\Users\leo_n\source\repos\41-StringWriter e StringReader\41-StringWriter e StringReader\obj\Debug\netcoreapp3.1\41-StringWriter e StringReader.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\41-StringWriter e StringReader\41-StringWriter e StringReader\obj\Debug\netcoreapp3.1\41-StringWriter e StringReader.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\41-StringWriter e StringReader\41-StringWriter e StringReader\obj\Debug\netcoreapp3.1\41-StringWriter e StringReader.dll
+C:\Users\leo_n\source\repos\41-StringWriter e StringReader\41-StringWriter e StringReader\obj\Debug\netcoreapp3.1\41-StringWriter e StringReader.pdb
+C:\Users\leo_n\source\repos\41-StringWriter e StringReader\41-StringWriter e StringReader\obj\Debug\netcoreapp3.1\41-StringWriter e StringReader.genruntimeconfig.cache

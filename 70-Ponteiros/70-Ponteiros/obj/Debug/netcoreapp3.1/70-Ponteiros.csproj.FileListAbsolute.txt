@@ -1,0 +1,13 @@
+C:\Users\leo_n\source\repos\70-Ponteiros\70-Ponteiros\bin\Debug\netcoreapp3.1\70-Ponteiros.exe
+C:\Users\leo_n\source\repos\70-Ponteiros\70-Ponteiros\bin\Debug\netcoreapp3.1\70-Ponteiros.deps.json
+C:\Users\leo_n\source\repos\70-Ponteiros\70-Ponteiros\bin\Debug\netcoreapp3.1\70-Ponteiros.runtimeconfig.json
+C:\Users\leo_n\source\repos\70-Ponteiros\70-Ponteiros\bin\Debug\netcoreapp3.1\70-Ponteiros.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\70-Ponteiros\70-Ponteiros\bin\Debug\netcoreapp3.1\70-Ponteiros.dll
+C:\Users\leo_n\source\repos\70-Ponteiros\70-Ponteiros\bin\Debug\netcoreapp3.1\70-Ponteiros.pdb
+C:\Users\leo_n\source\repos\70-Ponteiros\70-Ponteiros\obj\Debug\netcoreapp3.1\70-Ponteiros.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\70-Ponteiros\70-Ponteiros\obj\Debug\netcoreapp3.1\70-Ponteiros.csproj.CoreCompileInputs.cache
+C:\Users\leo_n\source\repos\70-Ponteiros\70-Ponteiros\obj\Debug\netcoreapp3.1\70-Ponteiros.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\70-Ponteiros\70-Ponteiros\obj\Debug\netcoreapp3.1\70-Ponteiros.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\70-Ponteiros\70-Ponteiros\obj\Debug\netcoreapp3.1\70-Ponteiros.dll
+C:\Users\leo_n\source\repos\70-Ponteiros\70-Ponteiros\obj\Debug\netcoreapp3.1\70-Ponteiros.pdb
+C:\Users\leo_n\source\repos\70-Ponteiros\70-Ponteiros\obj\Debug\netcoreapp3.1\70-Ponteiros.genruntimeconfig.cache

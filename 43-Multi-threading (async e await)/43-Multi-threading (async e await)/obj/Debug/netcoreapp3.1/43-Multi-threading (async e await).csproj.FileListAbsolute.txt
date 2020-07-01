@@ -1,0 +1,10 @@
+C:\Users\leo_n\source\repos\43-Multi-threading (async e await)\43-Multi-threading (async e await)\bin\Debug\netcoreapp3.1\43-Multi-threading (async e await).exe
+C:\Users\leo_n\source\repos\43-Multi-threading (async e await)\43-Multi-threading (async e await)\bin\Debug\netcoreapp3.1\43-Multi-threading (async e await).deps.json
+C:\Users\leo_n\source\repos\43-Multi-threading (async e await)\43-Multi-threading (async e await)\bin\Debug\netcoreapp3.1\43-Multi-threading (async e await).runtimeconfig.json
+C:\Users\leo_n\source\repos\43-Multi-threading (async e await)\43-Multi-threading (async e await)\bin\Debug\netcoreapp3.1\43-Multi-threading (async e await).runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\43-Multi-threading (async e await)\43-Multi-threading (async e await)\bin\Debug\netcoreapp3.1\43-Multi-threading (async e await).dll
+C:\Users\leo_n\source\repos\43-Multi-threading (async e await)\43-Multi-threading (async e await)\bin\Debug\netcoreapp3.1\43-Multi-threading (async e await).pdb
+C:\Users\leo_n\source\repos\43-Multi-threading (async e await)\43-Multi-threading (async e await)\obj\Debug\netcoreapp3.1\43-Multi-threading (async e await).AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\43-Multi-threading (async e await)\43-Multi-threading (async e await)\obj\Debug\netcoreapp3.1\43-Multi-threading (async e await).AssemblyInfo.cs
+C:\Users\leo_n\source\repos\43-Multi-threading (async e await)\43-Multi-threading (async e await)\obj\Debug\netcoreapp3.1\43-Multi-threading (async e await).dll
+C:\Users\leo_n\source\repos\43-Multi-threading (async e await)\43-Multi-threading (async e await)\obj\Debug\netcoreapp3.1\43-Multi-threading (async e await).pdb

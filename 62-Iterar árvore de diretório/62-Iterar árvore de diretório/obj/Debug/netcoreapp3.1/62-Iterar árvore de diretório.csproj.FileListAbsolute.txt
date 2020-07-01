@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\62-Iterar árvore de diretório\62-Iterar árvore de diretório\bin\Debug\netcoreapp3.1\62-Iterar árvore de diretório.exe
+C:\Users\leo_n\source\repos\62-Iterar árvore de diretório\62-Iterar árvore de diretório\bin\Debug\netcoreapp3.1\62-Iterar árvore de diretório.deps.json
+C:\Users\leo_n\source\repos\62-Iterar árvore de diretório\62-Iterar árvore de diretório\bin\Debug\netcoreapp3.1\62-Iterar árvore de diretório.runtimeconfig.json
+C:\Users\leo_n\source\repos\62-Iterar árvore de diretório\62-Iterar árvore de diretório\bin\Debug\netcoreapp3.1\62-Iterar árvore de diretório.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\62-Iterar árvore de diretório\62-Iterar árvore de diretório\bin\Debug\netcoreapp3.1\62-Iterar árvore de diretório.dll
+C:\Users\leo_n\source\repos\62-Iterar árvore de diretório\62-Iterar árvore de diretório\bin\Debug\netcoreapp3.1\62-Iterar árvore de diretório.pdb
+C:\Users\leo_n\source\repos\62-Iterar árvore de diretório\62-Iterar árvore de diretório\obj\Debug\netcoreapp3.1\62-Iterar árvore de diretório.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\62-Iterar árvore de diretório\62-Iterar árvore de diretório\obj\Debug\netcoreapp3.1\62-Iterar árvore de diretório.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\62-Iterar árvore de diretório\62-Iterar árvore de diretório\obj\Debug\netcoreapp3.1\62-Iterar árvore de diretório.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\62-Iterar árvore de diretório\62-Iterar árvore de diretório\obj\Debug\netcoreapp3.1\62-Iterar árvore de diretório.dll
+C:\Users\leo_n\source\repos\62-Iterar árvore de diretório\62-Iterar árvore de diretório\obj\Debug\netcoreapp3.1\62-Iterar árvore de diretório.pdb

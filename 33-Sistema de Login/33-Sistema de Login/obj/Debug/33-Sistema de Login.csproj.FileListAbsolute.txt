@@ -1,0 +1,10 @@
+C:\Users\leo_n\source\repos\33-Sistema de Login\33-Sistema de Login\bin\Debug\33-Sistema de Login.exe.config
+C:\Users\leo_n\source\repos\33-Sistema de Login\33-Sistema de Login\bin\Debug\33-Sistema de Login.exe
+C:\Users\leo_n\source\repos\33-Sistema de Login\33-Sistema de Login\bin\Debug\33-Sistema de Login.pdb
+C:\Users\leo_n\source\repos\33-Sistema de Login\33-Sistema de Login\obj\Debug\33-Sistema de Login.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\33-Sistema de Login\33-Sistema de Login\obj\Debug\_33_Sistema_de_Login.Apresentação.Cadastro.resources
+C:\Users\leo_n\source\repos\33-Sistema de Login\33-Sistema de Login\obj\Debug\_33_Sistema_de_Login.Form1.resources
+C:\Users\leo_n\source\repos\33-Sistema de Login\33-Sistema de Login\obj\Debug\_33_Sistema_de_Login.Properties.Resources.resources
+C:\Users\leo_n\source\repos\33-Sistema de Login\33-Sistema de Login\obj\Debug\33-Sistema de Login.csproj.GenerateResource.cache
+C:\Users\leo_n\source\repos\33-Sistema de Login\33-Sistema de Login\obj\Debug\33-Sistema de Login.exe
+C:\Users\leo_n\source\repos\33-Sistema de Login\33-Sistema de Login\obj\Debug\33-Sistema de Login.pdb

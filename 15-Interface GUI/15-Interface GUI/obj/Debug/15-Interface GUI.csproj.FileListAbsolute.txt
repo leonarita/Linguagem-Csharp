@@ -1,0 +1,9 @@
+C:\Users\leo_n\source\repos\15-Interface GUI\15-Interface GUI\obj\Debug\15-Interface GUI.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\15-Interface GUI\15-Interface GUI\obj\Debug\_15_Interface_GUI.Form1.resources
+C:\Users\leo_n\source\repos\15-Interface GUI\15-Interface GUI\obj\Debug\_15_Interface_GUI.Properties.Resources.resources
+C:\Users\leo_n\source\repos\15-Interface GUI\15-Interface GUI\obj\Debug\15-Interface GUI.csproj.GenerateResource.cache
+C:\Users\leo_n\source\repos\15-Interface GUI\15-Interface GUI\bin\Debug\15-Interface GUI.exe.config
+C:\Users\leo_n\source\repos\15-Interface GUI\15-Interface GUI\bin\Debug\15-Interface GUI.exe
+C:\Users\leo_n\source\repos\15-Interface GUI\15-Interface GUI\bin\Debug\15-Interface GUI.pdb
+C:\Users\leo_n\source\repos\15-Interface GUI\15-Interface GUI\obj\Debug\15-Interface GUI.exe
+C:\Users\leo_n\source\repos\15-Interface GUI\15-Interface GUI\obj\Debug\15-Interface GUI.pdb

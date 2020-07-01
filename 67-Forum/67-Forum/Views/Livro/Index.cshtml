@@ -1,0 +1,31 @@
+﻿
+@model IEnumerable<_67_Forum.Models.Livro>
+
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Livros</title>
+    </head>
+
+    <body>
+        <h4>Livros</h4>
+        <hr/>
+
+        <ul>
+            
+            @foreach (var item in Model)
+            {
+                <li>
+                    @Html.ActionLink(item.Titulo, "Detalhes", "Livro", new { @idLivro = item.IdLivro, }, null)
+                    <br/> <b>R$ @Html.DisplayFor(modelItem => item.Preco)</b>
+                    <br /><br />
+                </li>
+            }
+
+        </ul>
+
+    </body>
+
+</html>

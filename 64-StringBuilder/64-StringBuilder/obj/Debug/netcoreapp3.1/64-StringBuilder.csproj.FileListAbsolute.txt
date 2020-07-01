@@ -1,0 +1,13 @@
+C:\Users\leo_n\source\repos\64-StringBuilder\64-StringBuilder\bin\Debug\netcoreapp3.1\64-StringBuilder.exe
+C:\Users\leo_n\source\repos\64-StringBuilder\64-StringBuilder\bin\Debug\netcoreapp3.1\64-StringBuilder.deps.json
+C:\Users\leo_n\source\repos\64-StringBuilder\64-StringBuilder\bin\Debug\netcoreapp3.1\64-StringBuilder.runtimeconfig.json
+C:\Users\leo_n\source\repos\64-StringBuilder\64-StringBuilder\bin\Debug\netcoreapp3.1\64-StringBuilder.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\64-StringBuilder\64-StringBuilder\bin\Debug\netcoreapp3.1\64-StringBuilder.dll
+C:\Users\leo_n\source\repos\64-StringBuilder\64-StringBuilder\bin\Debug\netcoreapp3.1\64-StringBuilder.pdb
+C:\Users\leo_n\source\repos\64-StringBuilder\64-StringBuilder\obj\Debug\netcoreapp3.1\64-StringBuilder.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\64-StringBuilder\64-StringBuilder\obj\Debug\netcoreapp3.1\64-StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\leo_n\source\repos\64-StringBuilder\64-StringBuilder\obj\Debug\netcoreapp3.1\64-StringBuilder.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\64-StringBuilder\64-StringBuilder\obj\Debug\netcoreapp3.1\64-StringBuilder.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\64-StringBuilder\64-StringBuilder\obj\Debug\netcoreapp3.1\64-StringBuilder.dll
+C:\Users\leo_n\source\repos\64-StringBuilder\64-StringBuilder\obj\Debug\netcoreapp3.1\64-StringBuilder.pdb
+C:\Users\leo_n\source\repos\64-StringBuilder\64-StringBuilder\obj\Debug\netcoreapp3.1\64-StringBuilder.genruntimeconfig.cache

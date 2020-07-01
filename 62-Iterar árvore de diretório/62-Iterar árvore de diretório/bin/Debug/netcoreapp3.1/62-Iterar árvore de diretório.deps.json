@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "62-Iterar árvore de diretório/1.0.0": {
+        "runtime": {
+          "62-Iterar árvore de diretório.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "62-Iterar árvore de diretório/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

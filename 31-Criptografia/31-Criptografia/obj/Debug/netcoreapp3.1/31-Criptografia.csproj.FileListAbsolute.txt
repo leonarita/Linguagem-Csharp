@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\31-Criptografia\31-Criptografia\bin\Debug\netcoreapp3.1\31-Criptografia.exe
+C:\Users\leo_n\source\repos\31-Criptografia\31-Criptografia\bin\Debug\netcoreapp3.1\31-Criptografia.deps.json
+C:\Users\leo_n\source\repos\31-Criptografia\31-Criptografia\bin\Debug\netcoreapp3.1\31-Criptografia.runtimeconfig.json
+C:\Users\leo_n\source\repos\31-Criptografia\31-Criptografia\bin\Debug\netcoreapp3.1\31-Criptografia.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\31-Criptografia\31-Criptografia\bin\Debug\netcoreapp3.1\31-Criptografia.dll
+C:\Users\leo_n\source\repos\31-Criptografia\31-Criptografia\bin\Debug\netcoreapp3.1\31-Criptografia.pdb
+C:\Users\leo_n\source\repos\31-Criptografia\31-Criptografia\obj\Debug\netcoreapp3.1\31-Criptografia.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\31-Criptografia\31-Criptografia\obj\Debug\netcoreapp3.1\31-Criptografia.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\31-Criptografia\31-Criptografia\obj\Debug\netcoreapp3.1\31-Criptografia.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\31-Criptografia\31-Criptografia\obj\Debug\netcoreapp3.1\31-Criptografia.dll
+C:\Users\leo_n\source\repos\31-Criptografia\31-Criptografia\obj\Debug\netcoreapp3.1\31-Criptografia.pdb

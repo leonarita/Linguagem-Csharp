@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\18-Manipulação de zip\18-Manipulação de zip\bin\Debug\netcoreapp3.1\18-Manipulação de zip.exe
+C:\Users\leo_n\source\repos\18-Manipulação de zip\18-Manipulação de zip\bin\Debug\netcoreapp3.1\18-Manipulação de zip.deps.json
+C:\Users\leo_n\source\repos\18-Manipulação de zip\18-Manipulação de zip\bin\Debug\netcoreapp3.1\18-Manipulação de zip.runtimeconfig.json
+C:\Users\leo_n\source\repos\18-Manipulação de zip\18-Manipulação de zip\bin\Debug\netcoreapp3.1\18-Manipulação de zip.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\18-Manipulação de zip\18-Manipulação de zip\bin\Debug\netcoreapp3.1\18-Manipulação de zip.dll
+C:\Users\leo_n\source\repos\18-Manipulação de zip\18-Manipulação de zip\bin\Debug\netcoreapp3.1\18-Manipulação de zip.pdb
+C:\Users\leo_n\source\repos\18-Manipulação de zip\18-Manipulação de zip\obj\Debug\netcoreapp3.1\18-Manipulação de zip.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\18-Manipulação de zip\18-Manipulação de zip\obj\Debug\netcoreapp3.1\18-Manipulação de zip.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\18-Manipulação de zip\18-Manipulação de zip\obj\Debug\netcoreapp3.1\18-Manipulação de zip.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\18-Manipulação de zip\18-Manipulação de zip\obj\Debug\netcoreapp3.1\18-Manipulação de zip.dll
+C:\Users\leo_n\source\repos\18-Manipulação de zip\18-Manipulação de zip\obj\Debug\netcoreapp3.1\18-Manipulação de zip.pdb

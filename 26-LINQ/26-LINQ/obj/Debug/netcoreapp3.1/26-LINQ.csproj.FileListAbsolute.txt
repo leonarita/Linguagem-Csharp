@@ -1,0 +1,11 @@
+C:\Users\leo_n\source\repos\26-LINQ\26-LINQ\bin\Debug\netcoreapp3.1\26-LINQ.exe
+C:\Users\leo_n\source\repos\26-LINQ\26-LINQ\bin\Debug\netcoreapp3.1\26-LINQ.deps.json
+C:\Users\leo_n\source\repos\26-LINQ\26-LINQ\bin\Debug\netcoreapp3.1\26-LINQ.runtimeconfig.json
+C:\Users\leo_n\source\repos\26-LINQ\26-LINQ\bin\Debug\netcoreapp3.1\26-LINQ.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\26-LINQ\26-LINQ\bin\Debug\netcoreapp3.1\26-LINQ.dll
+C:\Users\leo_n\source\repos\26-LINQ\26-LINQ\bin\Debug\netcoreapp3.1\26-LINQ.pdb
+C:\Users\leo_n\source\repos\26-LINQ\26-LINQ\obj\Debug\netcoreapp3.1\26-LINQ.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\26-LINQ\26-LINQ\obj\Debug\netcoreapp3.1\26-LINQ.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\26-LINQ\26-LINQ\obj\Debug\netcoreapp3.1\26-LINQ.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\26-LINQ\26-LINQ\obj\Debug\netcoreapp3.1\26-LINQ.dll
+C:\Users\leo_n\source\repos\26-LINQ\26-LINQ\obj\Debug\netcoreapp3.1\26-LINQ.pdb

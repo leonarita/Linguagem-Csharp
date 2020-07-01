@@ -1,0 +1,9 @@
+C:\Users\leo_n\source\repos\27-Enviar Email\27-Enviar Email\bin\Debug\27-Enviar Email.exe.config
+C:\Users\leo_n\source\repos\27-Enviar Email\27-Enviar Email\bin\Debug\27-Enviar Email.exe
+C:\Users\leo_n\source\repos\27-Enviar Email\27-Enviar Email\bin\Debug\27-Enviar Email.pdb
+C:\Users\leo_n\source\repos\27-Enviar Email\27-Enviar Email\obj\Debug\27-Enviar Email.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\27-Enviar Email\27-Enviar Email\obj\Debug\_27_Enviar_Email.Form1.resources
+C:\Users\leo_n\source\repos\27-Enviar Email\27-Enviar Email\obj\Debug\_27_Enviar_Email.Properties.Resources.resources
+C:\Users\leo_n\source\repos\27-Enviar Email\27-Enviar Email\obj\Debug\27-Enviar Email.csproj.GenerateResource.cache
+C:\Users\leo_n\source\repos\27-Enviar Email\27-Enviar Email\obj\Debug\27-Enviar Email.exe
+C:\Users\leo_n\source\repos\27-Enviar Email\27-Enviar Email\obj\Debug\27-Enviar Email.pdb

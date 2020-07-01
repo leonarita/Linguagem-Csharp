@@ -1,0 +1,10 @@
+C:\Users\leo_n\source\repos\47-Functions\47-Functions\obj\Debug\netcoreapp3.1\47-Functions.AssemblyInfoInputs.cache
+C:\Users\leo_n\source\repos\47-Functions\47-Functions\obj\Debug\netcoreapp3.1\47-Functions.AssemblyInfo.cs
+C:\Users\leo_n\source\repos\47-Functions\47-Functions\bin\Debug\netcoreapp3.1\47-Functions.exe
+C:\Users\leo_n\source\repos\47-Functions\47-Functions\bin\Debug\netcoreapp3.1\47-Functions.deps.json
+C:\Users\leo_n\source\repos\47-Functions\47-Functions\bin\Debug\netcoreapp3.1\47-Functions.runtimeconfig.json
+C:\Users\leo_n\source\repos\47-Functions\47-Functions\bin\Debug\netcoreapp3.1\47-Functions.runtimeconfig.dev.json
+C:\Users\leo_n\source\repos\47-Functions\47-Functions\bin\Debug\netcoreapp3.1\47-Functions.dll
+C:\Users\leo_n\source\repos\47-Functions\47-Functions\bin\Debug\netcoreapp3.1\47-Functions.pdb
+C:\Users\leo_n\source\repos\47-Functions\47-Functions\obj\Debug\netcoreapp3.1\47-Functions.dll
+C:\Users\leo_n\source\repos\47-Functions\47-Functions\obj\Debug\netcoreapp3.1\47-Functions.pdb

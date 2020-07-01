@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>_2_Compras</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\leo_n\OneDrive\Documentos\Estudos\Estudos Paralelos\Linguagens de Programação\C#\1-Compras.csproj" Link="1-Compras.csproj" />
+  </ItemGroup>
+
+</Project>

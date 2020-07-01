@@ -1,0 +1,9 @@
+C:\Users\leo_n\source\repos\35-Banco de Dados\35-Banco de Dados\bin\Debug\35-Banco de Dados.exe.config
+C:\Users\leo_n\source\repos\35-Banco de Dados\35-Banco de Dados\bin\Debug\35-Banco de Dados.exe
+C:\Users\leo_n\source\repos\35-Banco de Dados\35-Banco de Dados\bin\Debug\35-Banco de Dados.pdb
+C:\Users\leo_n\source\repos\35-Banco de Dados\35-Banco de Dados\obj\Debug\35-Banco de Dados.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\35-Banco de Dados\35-Banco de Dados\obj\Debug\_35_Banco_de_Dados.Form1.resources
+C:\Users\leo_n\source\repos\35-Banco de Dados\35-Banco de Dados\obj\Debug\_35_Banco_de_Dados.Properties.Resources.resources
+C:\Users\leo_n\source\repos\35-Banco de Dados\35-Banco de Dados\obj\Debug\35-Banco de Dados.csproj.GenerateResource.cache
+C:\Users\leo_n\source\repos\35-Banco de Dados\35-Banco de Dados\obj\Debug\35-Banco de Dados.exe
+C:\Users\leo_n\source\repos\35-Banco de Dados\35-Banco de Dados\obj\Debug\35-Banco de Dados.pdb

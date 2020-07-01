@@ -1,0 +1,9 @@
+C:\Users\leo_n\source\repos\25-Consultar CEP\25-Consultar CEP\bin\Debug\25-Consultar CEP.exe.config
+C:\Users\leo_n\source\repos\25-Consultar CEP\25-Consultar CEP\bin\Debug\25-Consultar CEP.exe
+C:\Users\leo_n\source\repos\25-Consultar CEP\25-Consultar CEP\bin\Debug\25-Consultar CEP.pdb
+C:\Users\leo_n\source\repos\25-Consultar CEP\25-Consultar CEP\obj\Debug\25-Consultar CEP.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\25-Consultar CEP\25-Consultar CEP\obj\Debug\_25_Consultar_CEP.frmConsultarCEPs.resources
+C:\Users\leo_n\source\repos\25-Consultar CEP\25-Consultar CEP\obj\Debug\_25_Consultar_CEP.Properties.Resources.resources
+C:\Users\leo_n\source\repos\25-Consultar CEP\25-Consultar CEP\obj\Debug\25-Consultar CEP.csproj.GenerateResource.cache
+C:\Users\leo_n\source\repos\25-Consultar CEP\25-Consultar CEP\obj\Debug\25-Consultar CEP.exe
+C:\Users\leo_n\source\repos\25-Consultar CEP\25-Consultar CEP\obj\Debug\25-Consultar CEP.pdb

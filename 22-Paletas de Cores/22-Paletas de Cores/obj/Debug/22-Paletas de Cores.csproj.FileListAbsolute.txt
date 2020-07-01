@@ -1,0 +1,9 @@
+C:\Users\leo_n\source\repos\22-Paletas de Cores\22-Paletas de Cores\obj\Debug\22-Paletas de Cores.csprojAssemblyReference.cache
+C:\Users\leo_n\source\repos\22-Paletas de Cores\22-Paletas de Cores\obj\Debug\_22_Paletas_de_Cores.Form1.resources
+C:\Users\leo_n\source\repos\22-Paletas de Cores\22-Paletas de Cores\obj\Debug\_22_Paletas_de_Cores.Properties.Resources.resources
+C:\Users\leo_n\source\repos\22-Paletas de Cores\22-Paletas de Cores\obj\Debug\22-Paletas de Cores.csproj.GenerateResource.cache
+C:\Users\leo_n\source\repos\22-Paletas de Cores\22-Paletas de Cores\bin\Debug\22-Paletas de Cores.exe.config
+C:\Users\leo_n\source\repos\22-Paletas de Cores\22-Paletas de Cores\bin\Debug\22-Paletas de Cores.exe
+C:\Users\leo_n\source\repos\22-Paletas de Cores\22-Paletas de Cores\bin\Debug\22-Paletas de Cores.pdb
+C:\Users\leo_n\source\repos\22-Paletas de Cores\22-Paletas de Cores\obj\Debug\22-Paletas de Cores.exe
+C:\Users\leo_n\source\repos\22-Paletas de Cores\22-Paletas de Cores\obj\Debug\22-Paletas de Cores.pdb
